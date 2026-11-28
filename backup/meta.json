@@ -1,1 +1,2727 @@
-{"version":3,"exportedAt":"2026-11-27T12:01:48.311Z","appName":"ABSENSI SISWA MTs Al ISHLAH","compressed":true,"data":{"classes":[],"students":[],"activities":[],"holidays":[{"id":"cms7lmhmt0000ntypdcmny7u2","dayOfWeek":2,"name":"Hari Selasa","isActive":false},{"id":"cms7na5hw00d0rh0a0r6o85dx","dayOfWeek":5,"name":"Hari Jumat","isActive":true}],"dateHolidays":[],"waliKelas":[],"schedules":[{"id":"cmwyx2k6m001xma0c66v3h4sa","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":1,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m001yma0ck7x4ods6","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":2,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m001zma0cg1lax93x","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":3,"teacher":"Bu Rida","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0020ma0co4cf41te","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":4,"teacher":"Bu Rida","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0021ma0cwpdl0g2y","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":5,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0022ma0czisokzmk","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":6,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0023ma0c7l3ybcsk","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":7,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0024ma0cm6r8qhcw","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":0,"hour":8,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0025ma0cjucljkb1","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":1,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0026ma0c24ck2zz1","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":2,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0027ma0cnteb4plw","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":3,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0028ma0cjtygull7","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":4,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0029ma0co17lnj83","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":5,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002ama0cbbdyr76x","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":6,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002bma0ci469cypo","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":7,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002cma0cqkctee0t","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":1,"hour":8,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002dma0ct0y01e5h","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":1,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002ema0c0277zq5v","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":2,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002fma0c5ehrm162","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":3,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002gma0ccb5t73r6","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":4,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002hma0cippahpzs","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":5,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002ima0cir2pasph","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":6,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002jma0coueer4fl","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":7,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002kma0c3o8h54mx","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":2,"hour":8,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002lma0cnlq83qlx","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":1,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002mma0ca5tj4p8k","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":2,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002nma0cwcq6mcoa","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":3,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002oma0cb3plki60","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":4,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002pma0cvj1yypnk","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":5,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002qma0cvjwinxm9","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":6,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002rma0caokuueap","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":7,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002sma0caep06635","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":3,"hour":8,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002tma0ce9vasn5x","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":1,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002uma0cgvjirajw","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":2,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002vma0c0l0yhagz","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":3,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002wma0c1dr4s29o","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":4,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002xma0ck0vlhmsd","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":5,"teacher":"Pak Nizar","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002yma0cz7w6e2vc","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":6,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m002zma0cmna48vpp","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":7,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0030ma0cshm4a538","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":4,"hour":8,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0031ma0crupw8s18","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":1,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0032ma0cx7do7qks","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":2,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0033ma0cca6cfwdb","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":3,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0034ma0ck7m59e0b","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":4,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0035ma0cv6s61vfp","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":5,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0036ma0c3mtk0xwj","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":6,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0037ma0cqeu3sojc","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":7,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6m0038ma0c22n6jd1d","classId":"cms4yo1ic0002ow7srehtyqs7","dayOfWeek":6,"hour":8,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.646Z"},{"id":"cmwyx2k6p0039ma0c22tetg6l","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":1,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003ama0ci0g0zymc","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":2,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003bma0co3zia4ic","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":3,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003cma0cwsvf73ew","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":4,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003dma0c9x6lhvrz","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":5,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003ema0c6q9gly6h","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":6,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003fma0cltgfillo","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":7,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003gma0c1f8i3235","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":0,"hour":8,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003hma0c84oxcmlq","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":1,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003ima0ca7e8sinn","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":2,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003jma0czkr567b6","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":3,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003kma0cdb3d6cjg","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":4,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003lma0c2tmzmltg","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":5,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003mma0cjcfjnl3o","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":6,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003nma0c8f9g57q2","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":7,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003oma0ct4wqrp80","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":1,"hour":8,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003pma0cio5hv7f1","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":1,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003qma0cvr6x0hb5","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":2,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003rma0cy79hf2ey","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":3,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003sma0cmh8hkgzx","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":4,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003tma0cwruvsfix","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":5,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003uma0cko7ezknk","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":6,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003vma0cus22hi0f","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":7,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003wma0c8buysyiy","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":2,"hour":8,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003xma0cnjtfjl2p","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":1,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003yma0cwv1claxj","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":2,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p003zma0cathp5hy9","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":3,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0040ma0co8z7ngq6","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":4,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0041ma0cf2t4daxe","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":5,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0042ma0cqf0wmt5h","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":6,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0043ma0c8vgme2n8","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":7,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0044ma0cau4qtd65","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":3,"hour":8,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0045ma0cl7sxxk5w","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":1,"teacher":"Pak Nizar","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0046ma0cn0pfm4z6","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":2,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0047ma0cvo5np0t5","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":3,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0048ma0c734jfyge","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":4,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p0049ma0c4mrgj8wv","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":5,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004ama0ctwg95zzu","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":6,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004bma0cm3gejxed","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":7,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004cma0ctr96x14d","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":4,"hour":8,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004dma0cwh2o7gyo","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":1,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004ema0c2d0z0rnx","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":2,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004fma0c1b2koonp","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":3,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004gma0c5ahf3o6p","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":4,"teacher":"Pak Azzam","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004hma0clqkii8yl","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":5,"teacher":"Pak Khobir","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004ima0cv7lbbfvv","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":6,"teacher":"Pak Khobir","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004jma0cd7q8wlwi","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":7,"teacher":"Bu Rida","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6p004kma0c3pjlfiro","classId":"cms4yo1ia0001ow7st4g193ht","dayOfWeek":6,"hour":8,"teacher":"Bu Rida","createdAt":"2026-11-27T11:47:21.649Z"},{"id":"cmwyx2k6s004lma0c2zysp3x3","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":1,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004mma0ccqykgioz","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":1,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004nma0c921i8zo0","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":1,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004oma0c8wxgw43y","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":1,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004pma0cx1u4pzsy","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":1,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004qma0c9m73i4os","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":1,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004rma0c470o98bi","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":2,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004sma0cc1r4uh8m","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":2,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004tma0czzyrwuxp","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":2,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004uma0cybetfv8p","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":2,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004vma0c8k6sgfgv","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":2,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004wma0c45th97ji","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":2,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004xma0c1pv8cmv9","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":3,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004yma0cx5vty5u6","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":3,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s004zma0cz81go16k","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":3,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0050ma0c05jkh18z","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":3,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0051ma0cwb79xlua","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":3,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0052ma0cy8bet67u","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":3,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0053ma0ccboc1rf1","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":4,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0054ma0c5ju9qsw8","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":4,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0055ma0cvvg9czlo","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":4,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0056ma0c7c3xni50","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":4,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0057ma0cb18h9yl8","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":4,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0058ma0cjpz6pmi2","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":4,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s0059ma0c47lqcc7h","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":5,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005ama0c5pbc6tgu","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":5,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005bma0ccc49j8db","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":5,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005cma0cxch3gfyd","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":5,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005dma0c0de0n57k","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":5,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005ema0c7sw5piti","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":5,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005fma0ckvx08v8n","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":6,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005gma0cpyhetury","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":6,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005hma0cg8qxm911","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":6,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005ima0cbi2r3on9","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":6,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005jma0ciook8vyh","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":6,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005kma0c1kue9fii","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":6,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005lma0c6gexsguq","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":7,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005mma0cg0bcfiu3","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":7,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005nma0cveok14di","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":7,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005oma0c15qiif1j","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":7,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005pma0c77551gmo","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":7,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005qma0c8ksydfwq","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":7,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005rma0chxtfm5wf","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":1,"hour":8,"teacher":"Pak Agung","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005sma0cydok25wr","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":2,"hour":8,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005tma0c0ilbg26w","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":3,"hour":8,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005uma0cenw5kfo1","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":4,"hour":8,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005vma0ccb6pq1b8","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":6,"hour":8,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6s005wma0cvkdcbw87","classId":"cms4yo1if0005ow7sz6pqc9fo","dayOfWeek":0,"hour":8,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.652Z"},{"id":"cmwyx2k6u005xma0co5pehgm9","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":1,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u005yma0c4j9h9yda","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":1,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u005zma0cb51sqf33","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":1,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0060ma0c9072353l","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":1,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0061ma0c1xhgq3ew","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":1,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0062ma0cntxcxz35","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":1,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0063ma0cl6u0msx2","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":2,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0064ma0cmjpij93t","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":2,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0065ma0chftzjs5v","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":2,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0066ma0c1v2d625c","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":2,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0067ma0cgck7k3t6","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":2,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0068ma0cuftlcupt","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":2,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0069ma0cdf8j7t11","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":3,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006ama0cwm5rl97z","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":3,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006bma0cblmkerya","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":3,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006cma0cefs5v6zt","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":3,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006dma0c3wytndv9","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":3,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006ema0cp8o81c3c","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":3,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006fma0cslidpfv8","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":4,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006gma0cltqq00bu","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":4,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006hma0c60oil0mb","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":4,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006ima0cipjp1nah","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":4,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006jma0cxp3u8u6a","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":4,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006kma0c840pjuyz","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":4,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006lma0cf5t3bxj3","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":5,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006mma0cu05ganl5","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":5,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006nma0ctk15k8ia","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":5,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006oma0cbld9md92","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":5,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006pma0cm0lj14t1","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":5,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006qma0cjk264z82","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":5,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006rma0co438rmib","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":6,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006sma0ciz63lg48","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":6,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006tma0cltyjvmt6","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":6,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006uma0cylb4fv5i","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":6,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006vma0c3r7f3frn","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":6,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006wma0cbycv4j8d","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":6,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006xma0ceapwmps4","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":7,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006yma0cm2a4w4n1","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":7,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u006zma0c4nt7ffzg","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":7,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0070ma0cvhji5k8s","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":7,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0071ma0cudhtzh0u","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":7,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0072ma0chjyw69uq","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":7,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0073ma0cfuw5wr29","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":1,"hour":8,"teacher":"Pak Pupung","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0074ma0cu70acy41","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":2,"hour":8,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0075ma0c6jc61ohv","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":3,"hour":8,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0076ma0chedzfacs","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":4,"hour":8,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0077ma0crr1wgf7m","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":6,"hour":8,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6u0078ma0cjokjavxj","classId":"cms4yo1id0003ow7slj08aopj","dayOfWeek":0,"hour":8,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.654Z"},{"id":"cmwyx2k6w0079ma0ca33sbuny","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":1,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007ama0c204bpnxr","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":1,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007bma0cp10mc8yv","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":1,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007cma0cw81xilm2","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":1,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007dma0cxsygf4dz","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":1,"teacher":"Bu Atik Yuliana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007ema0ch2cifwo1","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":1,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007fma0c6l7jun5z","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":2,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007gma0c7yuh53zz","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":2,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007hma0ctxpyoenp","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":2,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007ima0cjk4qu2hh","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":2,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007jma0casum3d74","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":2,"teacher":"Bu Atik Yuliana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007kma0cp41090so","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":2,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007lma0cm8ccs6ej","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":3,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007mma0cbgcv3anr","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":3,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007nma0cyxzj6gb1","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":3,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007oma0c9xu9bqlw","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":3,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007pma0chjcyxcua","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":3,"teacher":"Bu Atik Yuliana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007qma0ciiydhti9","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":3,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007rma0c5d1zrh7a","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":4,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007sma0cup5ejz0w","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":4,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007tma0cle8jga4n","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":4,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007uma0ct6xsdwjj","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":4,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007vma0crkksomxt","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":4,"teacher":"Bu Atik Yuliana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007wma0cbw9u5h32","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":4,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007xma0cawf4q9et","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":5,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007yma0ca1huuvwz","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":5,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w007zma0c6q519bkg","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":5,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0080ma0cuf8fiumq","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":5,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0081ma0c9jjywosw","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":5,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0082ma0cic4i03iz","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":5,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0083ma0cwdykdp1w","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":6,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0084ma0c6lc9kfpj","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":6,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0085ma0ccqskkxsf","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":6,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0086ma0c266a3uoi","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":6,"teacher":"Bu Chusna","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0087ma0cnv23iqlk","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":6,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0088ma0ceztdz08n","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":6,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w0089ma0cfv3ro5ax","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":7,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008ama0c8kkbw0zt","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":7,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008bma0ce1nzsomy","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":7,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008cma0cxeb27ww1","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":7,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008dma0c1d9jkub6","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":7,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008ema0cxllqdg6o","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":7,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008fma0c1b4x3iml","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":1,"hour":8,"teacher":"Pak Qomarul","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008gma0cr4mag7mh","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":2,"hour":8,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008hma0c7sudch6v","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":3,"hour":8,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008ima0cghj0rfvl","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":4,"hour":8,"teacher":"Bu Atik Puji","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008jma0c58huwhrx","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":6,"hour":8,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6w008kma0c2usqkebb","classId":"cms4yo1ie0004ow7s1jxsxz07","dayOfWeek":0,"hour":8,"teacher":"Pak Fatih","createdAt":"2026-11-27T11:47:21.656Z"},{"id":"cmwyx2k6x008lma0cwooacdj2","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":1,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008mma0c9a60xb3t","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":1,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008nma0c6ppc63q9","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":1,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008oma0chmkvx44b","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":1,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008pma0c4e2x1aim","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":1,"teacher":"Pak Khobir","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008qma0crvhv94ek","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":1,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008rma0c7ob9gjs5","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":2,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008sma0cpa2ii4hc","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":2,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008tma0cdlt32lvl","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":2,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008uma0cip240uln","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":2,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008vma0c7vmw4mmi","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":2,"teacher":"Pak Khobir","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008wma0c7od9lk1p","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":2,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008xma0c5s0hcx1v","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":3,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008yma0cahjzzmmf","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":3,"teacher":"Bu Anis","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x008zma0cqncsp14k","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":3,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0090ma0cizsu754n","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":3,"teacher":"Pak Nizar","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0091ma0c68zsh0gm","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":3,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0092ma0cofmtzrqc","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":3,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0093ma0cp4wjb32e","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":4,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0094ma0cge9grvcx","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":4,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0095ma0c6arlfoy2","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":4,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0096ma0cq3pc82ki","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":4,"teacher":"Pak Nizar","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0097ma0c89t29j3e","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":4,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0098ma0ch4n15f5j","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":4,"teacher":"Pak Mas Burhan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x0099ma0cou1v1rxl","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":5,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009ama0cppcjsoes","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":5,"teacher":"Pak Ali","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009bma0ci0w0bvj6","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":5,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009cma0cbf1jdub4","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":5,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009dma0cn96sdyrt","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":5,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009ema0cpyu0g0ba","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":5,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009fma0cwnnl9jhv","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":6,"teacher":"Bu Wiwik","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009gma0cb5163sal","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":6,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009hma0cte02swrr","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":6,"teacher":"Pak Ubaid","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009ima0cqd8vtctt","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":6,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009jma0czbjxvogk","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":6,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009kma0cdxnlgmgg","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":6,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009lma0cvyjvpjzo","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":7,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009mma0csifan54m","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":7,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009nma0ccvsgbrow","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":7,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009oma0cy0rdsrzg","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":7,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009pma0c19bqslj6","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":7,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009qma0c8ety5w16","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":7,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009rma0chsdxic0h","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":1,"hour":8,"teacher":"Pak Iqbal","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009sma0cltvux5ra","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":2,"hour":8,"teacher":"Bu Syifa","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009tma0clgw104oq","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":3,"hour":8,"teacher":"Bu Ana","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009uma0c2rptr0ef","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":4,"hour":8,"teacher":"Bu Wiwin","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009vma0cz33vc5i8","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":6,"hour":8,"teacher":"Bu Khafshoh","createdAt":"2026-11-27T11:47:21.657Z"},{"id":"cmwyx2k6x009wma0c7n23e0av","classId":"cms4yo1i90000ow7s6c08t85a","dayOfWeek":0,"hour":8,"teacher":"Pak Irfan","createdAt":"2026-11-27T11:47:21.657Z"}],"settings":[{"key":"attendance_start_date","value":"2026-07-20"},{"key":"last_sync_at","value":"2026-09-07T04:00:51.460Z"},{"key":"notification_mode","value":"guru"},{"key":"reset_schedule_hour","value":"0"},{"key":"gsheet_attendance_count","value":"40950"},{"key":"transfer_start_cmup1i6uh00atmr0co7f3nulr","value":"2026-10-01"},{"key":"max_hours_2026-07-28","value":"8"},{"key":"max_hours_2026-07-29","value":"8"},{"key":"max_hours_2026-08-01","value":"8"},{"key":"max_hours_2026-08-02","value":"8"},{"key":"max_hours_2026-08-05","value":"8"},{"key":"max_hours_2026-08-06","value":"8"},{"key":"max_hours_2026-08-07","value":"8"},{"key":"max_hours_2026-08-08","value":"8"},{"key":"max_hours_2026-08-09","value":"8"},{"key":"max_hours_2026-08-10","value":"8"},{"key":"max_hours_2026-08-23","value":"8"},{"key":"max_hours_2026-08-24","value":"7"},{"key":"max_hours_2026-09-04","value":"7"},{"key":"max_hours_2026-09-05","value":"7"},{"key":"max_hours_2026-09-08","value":"8"},{"key":"max_hours_2026-09-09","value":"6"},{"key":"max_hours_2026-09-11","value":"8"},{"key":"max_hours_2026-09-18","value":"8"},{"key":"max_hours_2026-09-19","value":"8"},{"key":"max_hours_2026-09-20","value":"8"},{"key":"max_hours_2026-09-21","value":"8"},{"key":"max_hours_2026-09-22","value":"8"},{"key":"max_hours_2026-09-24","value":"8"},{"key":"max_hours_2026-09-25","value":"1"},{"key":"max_hours_2026-09-26","value":"8"},{"key":"max_hours_2026-10-13","value":"8"},{"key":"max_hours_2026-10-15","value":"8"},{"key":"max_hours_2026-07-14","value":"8"},{"key":"max_hours_2026-07-20","value":"8"},{"key":"max_hours_2026-07-21","value":"8"},{"key":"max_hours_2026-07-22","value":"8"},{"key":"max_hours_2026-07-23","value":"8"},{"key":"max_hours_2026-07-25","value":"8"},{"key":"max_hours_2026-07-26","value":"8"},{"key":"max_hours_2026-07-27","value":"8"},{"key":"max_hours_2026-08-03","value":"8"},{"key":"max_hours_2026-08-04","value":"8"},{"key":"max_hours_2026-08-11","value":"8"},{"key":"max_hours_2026-08-12","value":"8"},{"key":"max_hours_2026-08-13","value":"8"},{"key":"max_hours_2026-08-15","value":"8"},{"key":"max_hours_2026-08-16","value":"8"},{"key":"max_hours_2026-08-18","value":"8"},{"key":"max_hours_2026-08-19","value":"8"},{"key":"max_hours_2026-08-20","value":"8"},{"key":"max_hours_2026-08-22","value":"8"},{"key":"max_hours_2026-08-26","value":"8"},{"key":"max_hours_2026-08-27","value":"8"},{"key":"max_hours_2026-08-29","value":"8"},{"key":"max_hours_2026-08-30","value":"8"},{"key":"max_hours_2026-08-31","value":"8"},{"key":"max_hours_2026-09-01","value":"8"},{"key":"max_hours_2026-09-02","value":"8"},{"key":"max_hours_2026-09-03","value":"8"},{"key":"max_hours_2026-09-06","value":"8"},{"key":"max_hours_2026-09-07","value":"8"},{"key":"max_hours_2026-09-10","value":"8"},{"key":"max_hours_2026-09-12","value":"8"},{"key":"max_hours_2026-09-13","value":"8"},{"key":"max_hours_2026-09-14","value":"8"},{"key":"max_hours_2026-09-15","value":"8"},{"key":"max_hours_2026-09-16","value":"8"},{"key":"max_hours_2026-09-17","value":"8"},{"key":"max_hours_2026-09-23","value":"8"},{"key":"max_hours_2026-09-28","value":"8"},{"key":"max_hours_2026-09-29","value":"8"},{"key":"max_hours_2026-09-30","value":"8"},{"key":"max_hours_2026-10-01","value":"8"},{"key":"max_hours_2026-10-03","value":"8"},{"key":"max_hours_2026-10-04","value":"8"},{"key":"max_hours_2026-10-05","value":"8"},{"key":"max_hours_2026-10-06","value":"8"},{"key":"max_hours_2026-10-07","value":"8"},{"key":"max_hours_2026-10-08","value":"8"},{"key":"max_hours_2026-10-10","value":"8"},{"key":"max_hours_2026-10-11","value":"8"},{"key":"max_hours_2026-10-12","value":"8"},{"key":"max_hours_2026-10-14","value":"8"},{"key":"max_hours_2026-10-17","value":"8"},{"key":"max_hours_2026-10-18","value":"8"},{"key":"max_hours_2026-10-19","value":"8"},{"key":"max_hours_2026-10-20","value":"8"},{"key":"max_hours_2026-10-21","value":"8"},{"key":"max_hours_2026-10-22","value":"8"},{"key":"last_attendance_date","value":"2026-11-18"}],"teachers":[],"academicHolidays":[{"id":"cms7lmhmt0000ntypdcmny7u2","dayOfWeek":2,"name":"Hari Selasa","isActive":false},{"id":"cms7na5hw00d0rh0a0r6o85dx","dayOfWeek":5,"name":"Hari Jumat","isActive":true}]},"chunk":{"index":0,"total":360,"type":"meta"},"meta":{"totalChunks":360,"attendanceCount":107480,"incremental":true,"exportedAt":"2026-11-27T12:01:48.311Z"}}
+{
+  "version": 3,
+  "exportedAt": "2026-11-28T02:13:27.172Z",
+  "appName": "ABSENSI SISWA MTs Al ISHLAH",
+  "compressed": true,
+  "data": {
+    "classes": [],
+    "students": [],
+    "activities": [],
+    "holidays": [
+      {
+        "id": "cms7lmhmt0000ntypdcmny7u2",
+        "dayOfWeek": 2,
+        "name": "Hari Selasa",
+        "isActive": false
+      },
+      {
+        "id": "cms7na5hw00d0rh0a0r6o85dx",
+        "dayOfWeek": 5,
+        "name": "Hari Jumat",
+        "isActive": true
+      }
+    ],
+    "dateHolidays": [],
+    "waliKelas": [],
+    "schedules": [
+      {
+        "id": "cmwyx2k6m001xma0c66v3h4sa",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m001yma0ck7x4ods6",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m001zma0cg1lax93x",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Bu Rida",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0020ma0co4cf41te",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Bu Rida",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0021ma0cwpdl0g2y",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0022ma0czisokzmk",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0023ma0c7l3ybcsk",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0024ma0cm6r8qhcw",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0025ma0cjucljkb1",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0026ma0c24ck2zz1",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0027ma0cnteb4plw",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0028ma0cjtygull7",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0029ma0co17lnj83",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002ama0cbbdyr76x",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002bma0ci469cypo",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002cma0cqkctee0t",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002dma0ct0y01e5h",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002ema0c0277zq5v",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002fma0c5ehrm162",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002gma0ccb5t73r6",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002hma0cippahpzs",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002ima0cir2pasph",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002jma0coueer4fl",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002kma0c3o8h54mx",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002lma0cnlq83qlx",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002mma0ca5tj4p8k",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002nma0cwcq6mcoa",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002oma0cb3plki60",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002pma0cvj1yypnk",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002qma0cvjwinxm9",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002rma0caokuueap",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002sma0caep06635",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002tma0ce9vasn5x",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002uma0cgvjirajw",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002vma0c0l0yhagz",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002wma0c1dr4s29o",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002xma0ck0vlhmsd",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Pak Nizar",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002yma0cz7w6e2vc",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m002zma0cmna48vpp",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0030ma0cshm4a538",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0031ma0crupw8s18",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0032ma0cx7do7qks",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0033ma0cca6cfwdb",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0034ma0ck7m59e0b",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0035ma0cv6s61vfp",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0036ma0c3mtk0xwj",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0037ma0cqeu3sojc",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6m0038ma0c22n6jd1d",
+        "classId": "cms4yo1ic0002ow7srehtyqs7",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.646Z"
+      },
+      {
+        "id": "cmwyx2k6p0039ma0c22tetg6l",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003ama0ci0g0zymc",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003bma0co3zia4ic",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003cma0cwsvf73ew",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003dma0c9x6lhvrz",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003ema0c6q9gly6h",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003fma0cltgfillo",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003gma0c1f8i3235",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003hma0c84oxcmlq",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003ima0ca7e8sinn",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003jma0czkr567b6",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003kma0cdb3d6cjg",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003lma0c2tmzmltg",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003mma0cjcfjnl3o",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003nma0c8f9g57q2",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003oma0ct4wqrp80",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003pma0cio5hv7f1",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003qma0cvr6x0hb5",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003rma0cy79hf2ey",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003sma0cmh8hkgzx",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003tma0cwruvsfix",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003uma0cko7ezknk",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003vma0cus22hi0f",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003wma0c8buysyiy",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003xma0cnjtfjl2p",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003yma0cwv1claxj",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p003zma0cathp5hy9",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0040ma0co8z7ngq6",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0041ma0cf2t4daxe",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0042ma0cqf0wmt5h",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0043ma0c8vgme2n8",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0044ma0cau4qtd65",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0045ma0cl7sxxk5w",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Pak Nizar",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0046ma0cn0pfm4z6",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0047ma0cvo5np0t5",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0048ma0c734jfyge",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p0049ma0c4mrgj8wv",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004ama0ctwg95zzu",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004bma0cm3gejxed",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004cma0ctr96x14d",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004dma0cwh2o7gyo",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004ema0c2d0z0rnx",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004fma0c1b2koonp",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004gma0c5ahf3o6p",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Pak Azzam",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004hma0clqkii8yl",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Pak Khobir",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004ima0cv7lbbfvv",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Pak Khobir",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004jma0cd7q8wlwi",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Bu Rida",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6p004kma0c3pjlfiro",
+        "classId": "cms4yo1ia0001ow7st4g193ht",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Bu Rida",
+        "createdAt": "2026-11-27T11:47:21.649Z"
+      },
+      {
+        "id": "cmwyx2k6s004lma0c2zysp3x3",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004mma0ccqykgioz",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004nma0c921i8zo0",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004oma0c8wxgw43y",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004pma0cx1u4pzsy",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004qma0c9m73i4os",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004rma0c470o98bi",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004sma0cc1r4uh8m",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004tma0czzyrwuxp",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004uma0cybetfv8p",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004vma0c8k6sgfgv",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004wma0c45th97ji",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004xma0c1pv8cmv9",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004yma0cx5vty5u6",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s004zma0cz81go16k",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0050ma0c05jkh18z",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0051ma0cwb79xlua",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0052ma0cy8bet67u",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0053ma0ccboc1rf1",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0054ma0c5ju9qsw8",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0055ma0cvvg9czlo",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0056ma0c7c3xni50",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0057ma0cb18h9yl8",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0058ma0cjpz6pmi2",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s0059ma0c47lqcc7h",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005ama0c5pbc6tgu",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005bma0ccc49j8db",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005cma0cxch3gfyd",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005dma0c0de0n57k",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005ema0c7sw5piti",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005fma0ckvx08v8n",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005gma0cpyhetury",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005hma0cg8qxm911",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005ima0cbi2r3on9",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005jma0ciook8vyh",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005kma0c1kue9fii",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005lma0c6gexsguq",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005mma0cg0bcfiu3",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005nma0cveok14di",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005oma0c15qiif1j",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005pma0c77551gmo",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005qma0c8ksydfwq",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005rma0chxtfm5wf",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Pak Agung",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005sma0cydok25wr",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005tma0c0ilbg26w",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005uma0cenw5kfo1",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005vma0ccb6pq1b8",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6s005wma0cvkdcbw87",
+        "classId": "cms4yo1if0005ow7sz6pqc9fo",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.652Z"
+      },
+      {
+        "id": "cmwyx2k6u005xma0co5pehgm9",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u005yma0c4j9h9yda",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u005zma0cb51sqf33",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0060ma0c9072353l",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0061ma0c1xhgq3ew",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0062ma0cntxcxz35",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0063ma0cl6u0msx2",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0064ma0cmjpij93t",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0065ma0chftzjs5v",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0066ma0c1v2d625c",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0067ma0cgck7k3t6",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0068ma0cuftlcupt",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0069ma0cdf8j7t11",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006ama0cwm5rl97z",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006bma0cblmkerya",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006cma0cefs5v6zt",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006dma0c3wytndv9",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006ema0cp8o81c3c",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006fma0cslidpfv8",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006gma0cltqq00bu",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006hma0c60oil0mb",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006ima0cipjp1nah",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006jma0cxp3u8u6a",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006kma0c840pjuyz",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006lma0cf5t3bxj3",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006mma0cu05ganl5",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006nma0ctk15k8ia",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006oma0cbld9md92",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006pma0cm0lj14t1",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006qma0cjk264z82",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006rma0co438rmib",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006sma0ciz63lg48",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006tma0cltyjvmt6",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006uma0cylb4fv5i",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006vma0c3r7f3frn",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006wma0cbycv4j8d",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006xma0ceapwmps4",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006yma0cm2a4w4n1",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u006zma0c4nt7ffzg",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0070ma0cvhji5k8s",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0071ma0cudhtzh0u",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0072ma0chjyw69uq",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0073ma0cfuw5wr29",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Pak Pupung",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0074ma0cu70acy41",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0075ma0c6jc61ohv",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0076ma0chedzfacs",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0077ma0crr1wgf7m",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6u0078ma0cjokjavxj",
+        "classId": "cms4yo1id0003ow7slj08aopj",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.654Z"
+      },
+      {
+        "id": "cmwyx2k6w0079ma0ca33sbuny",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007ama0c204bpnxr",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007bma0cp10mc8yv",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007cma0cw81xilm2",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007dma0cxsygf4dz",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Bu Atik Yuliana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007ema0ch2cifwo1",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007fma0c6l7jun5z",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007gma0c7yuh53zz",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007hma0ctxpyoenp",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007ima0cjk4qu2hh",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007jma0casum3d74",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Bu Atik Yuliana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007kma0cp41090so",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007lma0cm8ccs6ej",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007mma0cbgcv3anr",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007nma0cyxzj6gb1",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007oma0c9xu9bqlw",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007pma0chjcyxcua",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Bu Atik Yuliana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007qma0ciiydhti9",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007rma0c5d1zrh7a",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007sma0cup5ejz0w",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007tma0cle8jga4n",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007uma0ct6xsdwjj",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007vma0crkksomxt",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Bu Atik Yuliana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007wma0cbw9u5h32",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007xma0cawf4q9et",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007yma0ca1huuvwz",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w007zma0c6q519bkg",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0080ma0cuf8fiumq",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0081ma0c9jjywosw",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0082ma0cic4i03iz",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0083ma0cwdykdp1w",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0084ma0c6lc9kfpj",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0085ma0ccqskkxsf",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0086ma0c266a3uoi",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Bu Chusna",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0087ma0cnv23iqlk",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0088ma0ceztdz08n",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w0089ma0cfv3ro5ax",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008ama0c8kkbw0zt",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008bma0ce1nzsomy",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008cma0cxeb27ww1",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008dma0c1d9jkub6",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008ema0cxllqdg6o",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008fma0c1b4x3iml",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Pak Qomarul",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008gma0cr4mag7mh",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008hma0c7sudch6v",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008ima0cghj0rfvl",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Bu Atik Puji",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008jma0c58huwhrx",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6w008kma0c2usqkebb",
+        "classId": "cms4yo1ie0004ow7s1jxsxz07",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Pak Fatih",
+        "createdAt": "2026-11-27T11:47:21.656Z"
+      },
+      {
+        "id": "cmwyx2k6x008lma0cwooacdj2",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 1,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008mma0c9a60xb3t",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 1,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008nma0c6ppc63q9",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 1,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008oma0chmkvx44b",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 1,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008pma0c4e2x1aim",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 1,
+        "teacher": "Pak Khobir",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008qma0crvhv94ek",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 1,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008rma0c7ob9gjs5",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 2,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008sma0cpa2ii4hc",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 2,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008tma0cdlt32lvl",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 2,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008uma0cip240uln",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 2,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008vma0c7vmw4mmi",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 2,
+        "teacher": "Pak Khobir",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008wma0c7od9lk1p",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 2,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008xma0c5s0hcx1v",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 3,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008yma0cahjzzmmf",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 3,
+        "teacher": "Bu Anis",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x008zma0cqncsp14k",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 3,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0090ma0cizsu754n",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 3,
+        "teacher": "Pak Nizar",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0091ma0c68zsh0gm",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 3,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0092ma0cofmtzrqc",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 3,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0093ma0cp4wjb32e",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 4,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0094ma0cge9grvcx",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 4,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0095ma0c6arlfoy2",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 4,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0096ma0cq3pc82ki",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 4,
+        "teacher": "Pak Nizar",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0097ma0c89t29j3e",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 4,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0098ma0ch4n15f5j",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 4,
+        "teacher": "Pak Mas Burhan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x0099ma0cou1v1rxl",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 5,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009ama0cppcjsoes",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 5,
+        "teacher": "Pak Ali",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009bma0ci0w0bvj6",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 5,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009cma0cbf1jdub4",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 5,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009dma0cn96sdyrt",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 5,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009ema0cpyu0g0ba",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 5,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009fma0cwnnl9jhv",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 6,
+        "teacher": "Bu Wiwik",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009gma0cb5163sal",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 6,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009hma0cte02swrr",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 6,
+        "teacher": "Pak Ubaid",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009ima0cqd8vtctt",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 6,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009jma0czbjxvogk",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 6,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009kma0cdxnlgmgg",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 6,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009lma0cvyjvpjzo",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 7,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009mma0csifan54m",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 7,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009nma0ccvsgbrow",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 7,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009oma0cy0rdsrzg",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 7,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009pma0c19bqslj6",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 7,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009qma0c8ety5w16",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 7,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009rma0chsdxic0h",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 1,
+        "hour": 8,
+        "teacher": "Pak Iqbal",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009sma0cltvux5ra",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 2,
+        "hour": 8,
+        "teacher": "Bu Syifa",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009tma0clgw104oq",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 3,
+        "hour": 8,
+        "teacher": "Bu Ana",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009uma0c2rptr0ef",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 4,
+        "hour": 8,
+        "teacher": "Bu Wiwin",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009vma0cz33vc5i8",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 6,
+        "hour": 8,
+        "teacher": "Bu Khafshoh",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      },
+      {
+        "id": "cmwyx2k6x009wma0c7n23e0av",
+        "classId": "cms4yo1i90000ow7s6c08t85a",
+        "dayOfWeek": 0,
+        "hour": 8,
+        "teacher": "Pak Irfan",
+        "createdAt": "2026-11-27T11:47:21.657Z"
+      }
+    ],
+    "settings": [
+      {
+        "key": "attendance_start_date",
+        "value": "2026-07-20"
+      },
+      {
+        "key": "last_sync_at",
+        "value": "2026-09-07T04:00:51.460Z"
+      },
+      {
+        "key": "notification_mode",
+        "value": "guru"
+      },
+      {
+        "key": "reset_schedule_hour",
+        "value": "0"
+      },
+      {
+        "key": "gsheet_attendance_count",
+        "value": "40950"
+      },
+      {
+        "key": "transfer_start_cmup1i6uh00atmr0co7f3nulr",
+        "value": "2026-10-01"
+      },
+      {
+        "key": "max_hours_2026-07-28",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-29",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-01",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-02",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-05",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-06",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-07",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-08",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-09",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-10",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-23",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-24",
+        "value": "7"
+      },
+      {
+        "key": "max_hours_2026-09-04",
+        "value": "7"
+      },
+      {
+        "key": "max_hours_2026-09-05",
+        "value": "7"
+      },
+      {
+        "key": "max_hours_2026-09-08",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-09",
+        "value": "6"
+      },
+      {
+        "key": "max_hours_2026-09-11",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-18",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-19",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-20",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-21",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-22",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-24",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-25",
+        "value": "1"
+      },
+      {
+        "key": "max_hours_2026-09-26",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-13",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-15",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-14",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-20",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-21",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-22",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-23",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-25",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-26",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-07-27",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-03",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-04",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-11",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-12",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-13",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-15",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-16",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-18",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-19",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-20",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-22",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-26",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-27",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-29",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-30",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-08-31",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-01",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-02",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-03",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-06",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-07",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-10",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-12",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-13",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-14",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-15",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-16",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-17",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-23",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-28",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-29",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-09-30",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-01",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-03",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-04",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-05",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-06",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-07",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-08",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-10",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-11",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-12",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-14",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-17",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-18",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-19",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-20",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-21",
+        "value": "8"
+      },
+      {
+        "key": "max_hours_2026-10-22",
+        "value": "8"
+      },
+      {
+        "key": "last_attendance_date",
+        "value": "2026-11-18"
+      }
+    ],
+    "teachers": [],
+    "academicHolidays": [
+      {
+        "id": "cms7lmhmt0000ntypdcmny7u2",
+        "dayOfWeek": 2,
+        "name": "Hari Selasa",
+        "isActive": false
+      },
+      {
+        "id": "cms7na5hw00d0rh0a0r6o85dx",
+        "dayOfWeek": 5,
+        "name": "Hari Jumat",
+        "isActive": true
+      }
+    ],
+    "attendance": 102728
+  },
+  "chunk": {
+    "index": 0,
+    "total": 360,
+    "type": "meta"
+  },
+  "meta": {
+    "totalChunks": 343,
+    "attendanceCount": 107480,
+    "incremental": true,
+    "exportedAt": "2026-11-27T12:01:48.311Z",
+    "attendance": 102728
+  }
+}

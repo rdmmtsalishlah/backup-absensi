@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "exportedAt": "2026-11-28T02:13:27.172Z",
+  "exportedAt": "2026-11-28T02:30:53.523Z",
   "appName": "ABSENSI SISWA MTs Al ISHLAH",
   "compressed": true,
   "data": {
@@ -2719,7 +2719,7 @@
   },
   "meta": {
     "totalChunks": 343,
-    "attendanceCount": 107480,
+    "attendanceCount": 102728,
     "incremental": true,
     "exportedAt": "2026-11-27T12:01:48.311Z",
     "attendance": 102728
